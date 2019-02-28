@@ -12,7 +12,7 @@ Below you can see two different messages which our model could correctly lable a
 **An example of spam message:**
 <img src="./assets/result 1.png">
  
-**An example of spam message:**
+**An example of ham message:**
 <img src="./assets/result 1.png">
  
  
