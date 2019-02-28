@@ -17,6 +17,6 @@ Below you can see two different messages which our model could correctly lable a
  
  
 ## Evaluation
-Let's take a look at the accuracy of our model. We evaluate our model with 4 different metrics:
+Let's evaluate our model with 4 different metrics:
 
 <img src="./assets/metrics.png">
