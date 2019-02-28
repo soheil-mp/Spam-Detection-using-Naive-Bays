@@ -13,7 +13,7 @@ Below you can see two different messages which our model could correctly lable a
 <img src="./assets/result 1.png">
  
 **An example of ham message:**
-<img src="./assets/result 1.png">
+<img src="./assets/result 2.png">
  
  
 ## Evaluation
